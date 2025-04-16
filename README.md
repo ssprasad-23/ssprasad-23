@@ -1,4 +1,14 @@
-## Hi there 👋
+## Bula!!! 👋
+
+My name is Shynal Prasad. I have a bachelor's degree from Arizona State University and am interested in full-stack software development.
+
+- 🔭 I am currently working on a social media platform and actively solving Leetcode challenges.
+- 🌱 I have recently built: 
+  - React CRUD application where users could post their favorite book.
+  - A weather application using React Native with a geo implementation feature and real-time data from a weather API.
+  - An unbeatable tic-tac-toe game using a minimax algorithm. 
+- 📫 How to reach me: pshynal23@gmail.com 
+
 
 <!--
 **ssprasad-23/ssprasad-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
