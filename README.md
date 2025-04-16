@@ -5,7 +5,7 @@ My name is Shynal Prasad. I have a bachelor's degree from Arizona State Universi
 - 🔭 I am currently working on a social media platform and actively solving Leetcode challenges.
 - 🌱 I have recently built: 
   - React CRUD application where users could post their favorite book. Check it out [here](https://readerslounge.netlify.app)
-  - A weather application using React Native with a geo implementation and real-time data from a weather API. Check it out [here](https://github.com/ssprasad-23/weather)
+  - A weather application using React Native with a geo location and real-time data from a weather API. Check it out [here](https://github.com/ssprasad-23/weather)
   - An unbeatable tic-tac-toe game using a minimax algorithm. Check it out [here](https://crossandknot.netlify.app)
 - 📫 How to reach me:
   - [Email](pshynal23@gmail.com) 
