@@ -1,9 +1,9 @@
-## Bula!!! 👋
+## Hello
 
-My name is Shynal Prasad. I have a bachelor's degree from Arizona State University and am interested in full-stack software development.
+My name is Shynal Prasad. I have a bachelor's degree from Arizona State University and am interested in backend software development.
 
-- 🔭 I am currently working on a social media platform and actively solving Leetcode challenges.
-- 🌱 I have recently built: 
+- I am currently working on a social media video platform and actively solving Leetcode challenges.
+- I have recently built: 
   - React application where users could post their favorite book. Check it out [here](https://readerslounge.netlify.app)
   - An unbeatable tic-tac-toe game using a minimax algorithm. Check it out [here](https://crossandknot.netlify.app)
   - A weather application using React Native with a geo location and real-time data from a weather API. Check it out [here](https://github.com/ssprasad-23/weather)
