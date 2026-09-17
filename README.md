@@ -2,7 +2,7 @@
 
 My name is Shynal Prasad. I have a bachelor's degree from Arizona State University and am interested in backend software development.
 
-- Backend-focused Software Engineer with experience owning full product lifecycles — from system architecture and API design to secure authentication and cross-platform mobile delivery. Built and shipped a Node.js/PostgreSQL microservices backend and React Native app as a solo founding engineer. ABET-accredited Software Engineering graduate (ASU) expanding into AI engineering via LangChain, RAG and vector database.
+- Backend-focused Software Engineer with interest in system architecture, distributed system, API design, secure authentication and cross-platform mobile delivery. ABET-accredited Software Engineering graduate (ASU) expanding into AI engineering via LangChain, RAG and vector database.
 - 📫 How to reach me: [Email](pshynal23@gmail.com) 
 
 
