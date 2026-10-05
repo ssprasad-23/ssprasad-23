@@ -7,13 +7,13 @@ Backend-focused software engineer and ASU Software Engineering graduate (ABET-ac
 - **[ttb](https://github.com/ssprasad-23/ttb)**: AI-powered label compliance checker using the Claude API's vision capabilities, with rule-specific validation and a live latency dashboard. [Live demo](https://thankful-dune-0df51551e.7.azurestaticapps.net/)
 
 ### Currently learning
-- **LangChain, RAG, vector databases
-- **Deploying and serving open-source LLMs in the cloud
+- LangChain, RAG, vector databases
+- Deploying and serving open-source LLMs in the cloud
 
 ### Tech
 JavaScript/TypeScript · Python · Java · Node.js · PostgreSQL · Redis · AWS (S3, SQS) · Docker · React Native
 
-📫 **Reach me:[Email](pshynal23@gmail.com) 
+📫 **Reach me: [Email](pshynal23@gmail.com) 
 
 
 <!--
