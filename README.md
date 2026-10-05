@@ -1,9 +1,19 @@
-## Hello
+### Hi, I'm Shynal Prasad 👋
 
-My name is Shynal Prasad. I have a bachelor's degree from Arizona State University and am interested in backend software development.
+Backend-focused software engineer and ASU Software Engineering graduate (ABET-accredited). I build event-driven microservices in Node.js and care about clean API design, secure authentication, and systems that scale.
 
-- Backend-focused Software Engineer with interest in system architecture, distributed system, API design, secure authentication and cross-platform mobile delivery. ABET-accredited Software Engineering graduate (ASU) expanding into AI engineering via LangChain, RAG and vector database.
-- 📫 How to reach me: [Email](pshynal23@gmail.com) 
+### What I've been building
+- **[short-video](https://github.com/ssprasad-23/short-video)**: TikTok-style video app with five Node.js microservices, S3 pre-signed uploads, an SQS-driven FFmpeg transcoding pipeline, Redis caching, and JWT auth.
+- **[ttb](https://github.com/ssprasad-23/ttb)**: AI-powered label compliance checker using the Claude API's vision capabilities, with rule-specific validation and a live latency dashboard. [Live demo](https://thankful-dune-0df51551e.7.azurestaticapps.net/)
+
+### Currently learning
+- **LangChain, RAG, vector databases
+- **Deploying and serving open-source LLMs in the cloud
+
+### Tech
+JavaScript/TypeScript · Python · Java · Node.js · PostgreSQL · Redis · AWS (S3, SQS) · Docker · React Native
+
+📫 **Reach me:[Email](pshynal23@gmail.com) 
 
 
 <!--
