@@ -13,7 +13,7 @@ Backend-focused software engineer and ASU Software Engineering graduate (ABET-ac
 ### Tech
 JavaScript/TypeScript · Python · Java · Node.js · PostgreSQL · Redis · AWS (S3, SQS) · Docker · React Native
 
-📫 **Reach me: [Email](pshynal23@gmail.com) 
+📫 Reach me: pshynal23@gmail.com
 
 
 <!--
