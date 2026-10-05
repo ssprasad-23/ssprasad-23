@@ -1,4 +1,4 @@
-### Hi, I'm Shynal Prasad 👋
+### Hi, I'm Shynal Prasad 🦖
 
 Backend-focused software engineer and ASU Software Engineering graduate (ABET-accredited). I build event-driven microservices in Node.js and care about clean API design, secure authentication, and systems that scale.
 
